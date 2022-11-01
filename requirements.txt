@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+plotly
+plotly-express
+matplotlib
+streamlit
+pandas-profiling
+streamlit-pandas-profiling
+openpyxl
+xlrd
